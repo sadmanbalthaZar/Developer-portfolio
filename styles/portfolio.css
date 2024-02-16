@@ -16,8 +16,8 @@
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+    margin-left: 10px;
 }
-
 .header{
     background: #FFF8F3;
     background-image: url('../images/header_bg.png') , url(../images/developer.png);
